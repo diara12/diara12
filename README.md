@@ -1,4 +1,4 @@
-# profile
+
 # 💫 About Me:
 Hey there! I'm a  Computer Science undergraduate diving into the world of tech and development. <br>I'm passionate about building cool things and constantly learning along the way.<br><br>🧠 What I'm Learning<br>Currently exploring Node.js, Python, Java, HTML/CSS, and JavaScript<br><br>Interested in web development, software engineering, and solving real-world problems with code<br><br>🛠️ Projects & Goals<br>Building small projects to practice what I learn<br><br>Looking to collaborate on open-source projects and grow my skills through real-world experience<br><br><br><br>
 
